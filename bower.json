@@ -1,0 +1,30 @@
+{
+  "name": "ui_kit_html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/99kq/ui_kit_html.git"
+  },
+  "description": "Full Featured Mobile HTML Framework For Building iOS & Android Apps",
+  "version": "0.0.1",
+  "author": "Vitrum Zhu",
+  "homepage": "",
+  "keywords": ["mobile", "uikit"],
+  "scripts": [
+    "dist/js/uikit.js"
+  ],
+  "main": "dist/",
+  "styles": [
+    "dist/css/uikit.css"
+  ],
+  "license": ["MIT"],
+  "ignore": [
+    ".*",
+    "build",
+    "custom",
+    "kitchen-sink/",
+    "gulpfile.js",
+    "apps",
+    "node_modules",
+    "package.json"
+  ]
+}
